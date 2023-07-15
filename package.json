@@ -1,0 +1,12 @@
+{
+  "name": "sample-web-app",
+  "version": "1.0.0",
+  "description": "Sample Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
